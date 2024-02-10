@@ -13,7 +13,7 @@
 	"recording.ts",
         "README.md",
 "drole.md",
-	"niveau_bulle.md"
+	"niveau_bulle.md","niveau_bulle_light.md"
     ],
     "testFiles": [
         "test.ts"
